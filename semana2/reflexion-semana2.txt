@@ -1,0 +1,3 @@
+Es importante porque la terminal permite al desarrollador trabajar de forma más rápida y ordenada dentro de un proyecto, sin depender únicamente de interfaces gráficas. A través de comandos puede navegar entre carpetas, crear, mover o eliminar archivos de manera eficiente, lo que facilita la organización del proyecto.
+
+Además, muchas herramientas de desarrollo como Git, servidores y lenguajes de programación funcionan directamente desde la terminal, por lo que saber usarla es fundamental para manejar proyectos de forma profesional, automatizar tareas y tener mayor control sobre el sistema de archivos.
