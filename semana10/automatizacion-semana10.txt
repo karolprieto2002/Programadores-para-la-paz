@@ -1,0 +1,13 @@
+Diseño de automatización
+
+Evento que activa el flujo:
+Se registra un nuevo reporte en el sistema.
+
+Acción:
+n8n detecta el nuevo registro y envía una notificación mediante Telegram.
+
+Mensaje que se enviaría:
+"Nuevo reporte recibido. Revisar el sistema para realizar el seguimiento correspondiente."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar nombres completos, números de documento, direcciones, teléfonos, contraseñas ni ningún dato personal o sensible.
