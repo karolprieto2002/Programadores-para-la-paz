@@ -1,0 +1,11 @@
+Pregunta 7 — Describir el flujo del sistema
+
+Describe en pasos simples cómo funcionaría el sistema Petición en 3 Clics.
+
+Respuesta:
+
+1. Un ciudadano crea una causa desde la plataforma.
+2. La causa queda registrada en la base de datos.
+3. Otros ciudadanos pueden apoyar la causa registrando su respaldo.
+4. El sistema cuenta automáticamente la cantidad de apoyos recibidos.
+5. Finalmente, el sistema genera un documento PDF con la petición para que pueda ser presentada a la entidad correspondiente.

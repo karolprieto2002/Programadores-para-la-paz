@@ -1,0 +1,7 @@
+Pregunta 10 — Registrar respuestas y reflexión
+
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y la organización comunitaria?
+
+Respuesta:
+
+Durante este curso aprendí que la tecnología puede ser una herramienta muy importante para fortalecer la participación ciudadana y la organización comunitaria. Comprendí cómo desarrollar aplicaciones básicas con Node.js, organizar la información mediante bases de datos y utilizar Git y GitHub para controlar los cambios en los proyectos. También entendí la importancia de proteger los datos personales, implementar autenticación y automatizar procesos para hacer las plataformas más eficientes. Además, aprendí que el trabajo colaborativo y las metodologías ágiles facilitan el desarrollo de soluciones con mayor calidad. Finalmente, comprendí que la tecnología, cuando se utiliza de manera responsable, puede generar un impacto positivo en la comunidad y contribuir a una participación ciudadana más organizada y democrática.

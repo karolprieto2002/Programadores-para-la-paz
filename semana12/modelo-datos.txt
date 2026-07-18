@@ -1,0 +1,24 @@
+Pregunta 8 — Diseñar modelo de datos simple
+
+Describe un modelo básico de datos con al menos dos entidades.
+
+Respuesta:
+
+Entidad: Causa
+
+- id: Identificador único de la causa.
+- titulo: Nombre de la causa.
+- descripcion: Explicación de la petición o necesidad.
+- fecha: Fecha de creación de la causa.
+
+Esta entidad sirve para almacenar la información principal de cada petición creada por la comunidad.
+
+
+Entidad: Apoyo
+
+- id: Identificador único del apoyo.
+- causa_id: Identifica la causa a la que pertenece el apoyo.
+- nombre: Nombre de la persona que apoya la causa.
+- fecha: Fecha en que se registró el apoyo.
+
+Esta entidad sirve para registrar los apoyos recibidos y relacionarlos con la causa correspondiente.
